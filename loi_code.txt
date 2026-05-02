@@ -1,0 +1,73 @@
+Analyzing labs_app...                                           
+
+   info - Convert 'key' to a super parameter - lib\main.dart:9:9 - use_super_parameters
+   info - The type name 'Lab1_IAmRich' isn't an UpperCamelCase identifier - lib\screens\lab1_i_am_rich.dart:3:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab1_i_am_rich.dart:4:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab1_i_am_rich.dart:12:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab1_i_am_rich.dart:13:16 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\lab1_i_am_rich.dart:15:21 - prefer_const_literals_to_create_immutables
+   info - The type name 'Lab2_MiCard' isn't an UpperCamelCase identifier - lib\screens\lab2_micard.dart:3:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab2_micard.dart:4:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:19:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:62:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:68:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:74:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:80:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:97:17 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\lab2_micard.dart:100:29 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:101:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:102:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:103:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab2_micard.dart:104:21 - prefer_const_constructors
+   info - Convert 'key' to a super parameter - lib\screens\lab2_micard.dart:123:9 - use_super_parameters
+   info - Convert 'key' to a super parameter - lib\screens\lab2_micard.dart:177:9 - use_super_parameters
+   info - The type name 'Lab3_Dice' isn't an UpperCamelCase identifier - lib\screens\lab3_dice.dart:4:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab3_dice.dart:5:9 - use_super_parameters
+   info - The type name '_Lab3_DiceState' isn't an UpperCamelCase identifier - lib\screens\lab3_dice.dart:11:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab3_dice.dart:176:9 - use_super_parameters
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\lab3_dice.dart:190:20 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab3_dice.dart:191:11 - prefer_const_constructors
+   info - The type name 'Lab4_Magic8Ball' isn't an UpperCamelCase identifier - lib\screens\lab4_magic8ball.dart:4:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab4_magic8ball.dart:5:9 - use_super_parameters
+   info - The type name '_Lab4_Magic8BallState' isn't an UpperCamelCase identifier - lib\screens\lab4_magic8ball.dart:11:7 - camel_case_types
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab4_magic8ball.dart:123:35 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\lab4_magic8ball.dart:126:36 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab4_magic8ball.dart:127:27 - prefer_const_constructors
+   info - The type name 'Lab5_Xylophone' isn't an UpperCamelCase identifier - lib\screens\lab5_xylophone.dart:4:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab5_xylophone.dart:5:9 - use_super_parameters
+   info - The type name '_Lab5_XylophoneState' isn't an UpperCamelCase identifier - lib\screens\lab5_xylophone.dart:11:7 - camel_case_types
+   info - Don't use 'BuildContext's across async gaps - lib\screens\lab5_xylophone.dart:43:7 - use_build_context_synchronously
+   info - The type name 'Lab6_Quizzler' isn't an UpperCamelCase identifier - lib\screens\lab6_quizzler.dart:4:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab6_quizzler.dart:5:9 - use_super_parameters
+   info - The type name '_Lab6_QuizzlerState' isn't an UpperCamelCase identifier - lib\screens\lab6_quizzler.dart:11:7 - camel_case_types
+   info - The type name 'Lab7_Destini' isn't an UpperCamelCase identifier - lib\screens\lab7_destini.dart:4:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab7_destini.dart:5:9 - use_super_parameters
+   info - The type name '_Lab7_DestiniState' isn't an UpperCamelCase identifier - lib\screens\lab7_destini.dart:11:7 - camel_case_types
+   info - The type name 'Lab8_BMI' isn't an UpperCamelCase identifier - lib\screens\lab8_bmi.dart:3:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab8_bmi.dart:4:9 - use_super_parameters
+   info - The type name '_Lab8_BMIState' isn't an UpperCamelCase identifier - lib\screens\lab8_bmi.dart:10:7 - camel_case_types
+   info - Use 'const' with the constructor to improve performance - lib\screens\lab8_bmi.dart:270:24 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\lab8_bmi.dart:272:29 - prefer_const_literals_to_create_immutables
+warning - Unused import: 'package:geolocator/geolocator.dart' - lib\screens\lab9_clima.dart:2:8 - unused_import
+   info - The type name 'Lab9_Clima' isn't an UpperCamelCase identifier - lib\screens\lab9_clima.dart:7:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\lab9_clima.dart:8:9 - use_super_parameters
+   info - The type name '_Lab9_ClimaState' isn't an UpperCamelCase identifier - lib\screens\lab9_clima.dart:14:7 - camel_case_types
+   info - Convert 'key' to a super parameter - lib\screens\menu_screen.dart:14:9 - use_super_parameters
+   info - Use 'const' with the constructor to improve performance - lib\screens\menu_screen.dart:60:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\menu_screen.dart:67:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\menu_screen.dart:81:17 - prefer_const_constructors
+   info - Convert 'key' to a super parameter - lib\screens\menu_screen.dart:132:9 - use_super_parameters
+   info - Don't invoke 'print' in production code - lib\services\location_service.dart:24:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\services\location_service.dart:44:7 - avoid_print
+  error - The named parameter 'altitudeAccuracy' is required, but there's no corresponding argument - lib\services\location_service.dart:50:12 - missing_required_argument
+  error - The named parameter 'headingAccuracy' is required, but there's no corresponding argument - lib\services\location_service.dart:50:12 - missing_required_argument
+   info - Convert 'key' to a super parameter - lib\widgets\custom_card.dart:12:9 - use_super_parameters
+   info - Convert 'key' to a super parameter - lib\widgets\custom_card.dart:103:9 - use_super_parameters
+   info - Convert 'key' to a super parameter - lib\widgets\custom_card.dart:175:9 - use_super_parameters
+   info - Convert 'key' to a super parameter - lib\widgets\reusable_card.dart:10:9 - use_super_parameters
+   info - The 'child' argument should be last in widget constructor invocations - lib\widgets\reusable_card.dart:23:9 - sort_child_properties_last
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\widgets\reusable_card.dart:28:22 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\widgets\reusable_card.dart:29:13 - prefer_const_constructors
+warning - Unused import: 'package:labs_app/main.dart' - test\widget_test.dart:11:8 - unused_import
+  error - The name 'MyApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+

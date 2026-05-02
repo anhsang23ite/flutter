@@ -1,0 +1,31 @@
+name: labs_app
+description: "Ứng dụng Flutter - 9 Lab học phần Phát triển ứng dụng di động đa nền tảng"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.2
+  audioplayers: ^5.2.0
+  http: ^1.1.0
+  geolocator: ^9.0.2
+  font_awesome_flutter: ^10.7.0
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/audio/
